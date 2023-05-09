@@ -1,1 +1,8 @@
-templates/index.html
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+  Welcome to The Secret Garden.
+	<p><a href="{{ get_url(path='@/blog/_index.md') }}">Blog</a></p>
+</h1>
+{% endblock content %}
