@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://myusuki.github.io/The-Cat-s-Secret-Garden/sitemap.xml
